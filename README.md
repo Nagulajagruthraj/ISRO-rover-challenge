@@ -1,7 +1,3 @@
-Here is a more professional version of your README file:
-
----
-
 # ISRO Rover Challenge
 
 The ISRO Rover Challenge focuses on understanding the mechanics of the rover, its mobility in sandy terrains, and its ability to withstand uneven terrains. This project aims to develop the best rover for ISRO's next lunar mission.
