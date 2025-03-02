@@ -14,7 +14,3 @@ The ISRO Rover Challenge focuses on understanding the mechanics of the rover, it
 ## Simulation Videos
 
 - [Simulation Playlist](https://www.youtube.com/playlist?list=PL6y8gCha1p3mD40VUfXiIlIZmoQB5V-pR)
-
----
-
-You can update your README.md file with this content to give it a more professional appearance.
